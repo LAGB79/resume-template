@@ -1,3 +1,6 @@
+### Créditos  
+Este currículum está basado en la plantilla creada por [@jglovier](https://github.com/jglovier/resume-template).  
+
 # Resume template
 
 *A simple Jekyll + GitHub Pages powered resume template.*
